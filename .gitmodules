@@ -27,6 +27,3 @@
 	path = core/src/main/jni/libsodium
 	url = https://github.com/jedisct1/libsodium.git
 	branch = stable
-[submodule "core/src/main/jni/libev"]
-	path = core/src/main/jni/libev
-	url = https://git.lighttpd.net/libev.git
